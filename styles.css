@@ -1,14 +1,10 @@
-*{
-	margin:0;
-	padding:0;
-}
+
 .holder{
 	
 	display:flex;
-	padding:5px
-		justify-content:center;
+	padding:5px;
 flex-wrap: wrap;
-	flex-direction:center;
+	justify-content: center;
 	
 }
 .three{
