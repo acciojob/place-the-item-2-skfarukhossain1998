@@ -1,2 +1,31 @@
+*{
+	margin:0;
+	padding:0;
+}
+.num{
+	
+	display:flex;
+	padding:5px
+flex-wrap: wrap;
+	flex-direction:center;
+	
+}
+.three{
+ border:3px solid green;
+	font-size:85px;
+	padding:25px;
+	background-color:green;
+}
+.one{
+	border:3px solid red;
+	font-size:85px;
+	padding:25px;
+	background-color:red;
+}
+.two{
+	border:3px solid blue;
+	font-size:85px;
+	padding:25px;
+	background-color:blue;
+}
 
-/* Your CSS Code here. */
